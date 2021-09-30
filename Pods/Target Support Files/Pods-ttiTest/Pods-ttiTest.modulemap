@@ -1,0 +1,6 @@
+module Pods_ttiTest {
+  umbrella header "Pods-ttiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
